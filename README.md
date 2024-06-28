@@ -1,6 +1,6 @@
 # Match Mania game
 
-## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/ Match-Mania-Game/)
+## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Match-Mania-Game/)
 
 
 This project is made using HTML,CSS &amp; JavaScript.
